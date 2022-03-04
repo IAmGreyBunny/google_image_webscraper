@@ -1,5 +1,2 @@
 # google_image_webscraper
-pip install:
-\nbs4
-\nselenium
-\nrequests
+pip install:  bs4  selenium  requests
